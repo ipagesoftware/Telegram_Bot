@@ -11,6 +11,18 @@ Você pode procurar no Telegram por @IpageSoftwareBot.
 
 ![Figura 01](https://www.ipagesoftware.com.br/telegram/IpageTelegram/assets/manual/figura_01.png)
 
+# NOSSOS CANAIS
+
+IpageTelegram.
+Versão: 2.0.3 Beta
+Última atualização:  01 Apr 2021 03:14:02
+
+* Site da Ipage (https://www.ipage.com.br/)
+* Twitter (https://twitter.com/ipage_software)
+* Suporte Técnico (https://www.ipage.com.br/helpdesk/)
+* suporte@ipage.com.br
+* Telegram do autor @diogenesdias (https://t.me/diogenesdias)
+
 # ACESSANDO O BOT DA IPAGE.
 
 Digite na caixa de pesquisa do Telegram por: Ipage Software
