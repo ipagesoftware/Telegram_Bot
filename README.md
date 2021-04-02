@@ -31,9 +31,9 @@ Ao iniciar o bot com o comando /start uma mensagem de saudação será exibida e
 
 # MENSAGEM INICIAL.
 
-1 – Na mensagem inicial você verá seu nome cadastrado no Telegram.
-2 – A versão do bot.
-3 – A data da última atualização realizada no bot.
+* Na mensagem inicial você verá seu nome cadastrado no Telegram.
+* A versão do bot.
+* A data da última atualização realizada no bot.
 
 São elas:
 
@@ -41,19 +41,19 @@ MENU INICIAL
 
 No menu inicial temos as seguintes opções:
 
-1 – Menu Administração
-2 – Menu Minhas faturas
-3 – Serviços Contratados
-4 – Manual de Operações
+* Menu Administração
+* Menu Minhas faturas
+* Serviços Contratados
+* Manual de Operações
 
 # MENU ADMINISTRAÇÃO
 
 Este menu é composto por 04 (quatro) submenus, são eles:
  
-1 – Enviar Lembretes
-2 – Manutenção
-3 – Usuários
-4 – Faturas
+* Enviar Lembretes
+* Manutenção
+* Usuários
+* Faturas
 
 Ver figura abaixo:
 
@@ -187,10 +187,10 @@ Favor consultar MENU ADMINISTRAÇÃO → FATURAS → A RECEBER para maiores info
 
 Nesta opção de menu pode-se mudar a situação da fatura para emitida. No nosso robô de cobrança, a fatura possui 04 (quatro) estágios de situação financeira, são elas:
 
-1 – Emitida
-2 – Enviada
-3 – Paga
-4 – Cancelada
+* Emitida
+* Enviada
+* Paga
+* Cancelada
 
 Vamos esclarecer as regras de negócio:
 
@@ -278,17 +278,15 @@ Ao selecionar esta opção do menu, serão exibidos todos os serviços cadastrad
 Estes serviços são cadastrados em nossa plataforma de retaguarda, ver figura acima.
 As informações apresentadas são:
 
-1 – O serviço contratado
-2 – A descrição do serviço
-3 – Um link opcional que te encaminhará para um manual ou aplicação de exemplo.
+* O serviço contratado
+* A descrição do serviço
+* Um link opcional que te encaminhará para um manual ou aplicação de exemplo.
 
 
 Temos duas opções:
 
-1 – Recorrer ao suporte conversando diretamente com o autor que desenvolveu este bot @diogenesdias.
-
-2 – Retornar ao menu inicial
-
+* Recorrer ao suporte conversando diretamente com o autor que desenvolveu este bot @diogenesdias.
+* Retornar ao menu inicial
 
 # MENU MANUAL DE OPERAÇÃO
 
@@ -306,7 +304,6 @@ Se você chegou até aqui é porque este assunto despertou o seu interesse.
 Este projeto foi desenvolvido em PHP 07 (sete) puro sangue, sem o auxílio de frameworks.
 
 Ele foi baseado na documentação da API do Telegram: https://core.telegram.org/bots/api.
-
 
 # BASTIDORES
 
