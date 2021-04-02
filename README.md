@@ -263,74 +263,15 @@ Você também poderá consultar as formas de pagamento selecionando a opção do
 
 Nesta opção do menu o funcionamento é o mesmo das faturas pendentes. Favor consultar MENU MINHAS FATURAS → PENDENTES para maiores informações.
 
+![Figura 33](https://www.ipagesoftware.com.br/telegram/IpageTelegram/assets/manual/figura_33.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Figura 33
-
-MENU MINHAS FATURAS → CANCELADAS
+# MENU MINHAS FATURAS → CANCELADAS
 
 Nesta opção do menu o funcionamento é o mesmo das faturas pendentes. Favor consultar MENU MINHAS FATURAS → PENDENTES para maiores informações.
 
+![Figura 34](https://www.ipagesoftware.com.br/telegram/IpageTelegram/assets/manual/figura_34.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Figura 34
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MENU SERVIÇOS CONTRATADOS
+# MENU SERVIÇOS CONTRATADOS
 
 Ao selecionar esta opção do menu, serão exibidos todos os serviços cadastrados para o usuário do Telegram.
 
@@ -349,7 +290,7 @@ Temos duas opções:
 2 – Retornar ao menu inicial
 
 
-MENU MANUAL DE OPERAÇÃO
+# MENU MANUAL DE OPERAÇÃO
 
 Ao selecionar esta opção do menu, você poderá visualizar/baixar o manual de operação deste bot em formato PDF.
 
@@ -358,26 +299,7 @@ Você também poderá acessar diretamente através do link:
 http://www.ipagesoftware.com.br/telegram/IpageTelegram/assets/manual/IpageSoftwareBot.pdf
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CONSIDERAÇÕES FINAIS
+# CONSIDERAÇÕES FINAIS
 
 Se você chegou até aqui é porque este assunto despertou o seu interesse.
 
@@ -386,43 +308,6 @@ Este projeto foi desenvolvido em PHP 07 (sete) puro sangue, sem o auxílio de fr
 Ele foi baseado na documentação da API do Telegram: https://core.telegram.org/bots/api.
 
 
-BASTIDORES.
+# BASTIDORES
 
 Este bot é capaz de trabalhar com base de dados MySql, paginar dados, utilizar em suas solicitações GET com múltiplos parãmetros, acessar API de terceiros, comunicar-se com outros bot, dentre outras peripécias que vão além da programação tradicional.
-
-
-
-
-SOBRE O AUTOR.
-
-
-Tenho saudades dos tempos em que programava por hobby, talvez algum dia volte a programar em assembly Z-80 08 (oito) bits só de sacanagem.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
