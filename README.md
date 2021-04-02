@@ -9,6 +9,10 @@ https://www.ipage.com.br
 
 Você pode procurar no Telegram por @IpageSoftwareBot.
 
+Assista o vídeo no Youtube
+
+https://www.youtube.com/watch?v=wiihNRlDoWU
+
 ![Figura 01](https://www.ipagesoftware.com.br/telegram/IpageTelegram/assets/manual/figura_01.png)
 
 # NOSSOS CANAIS
