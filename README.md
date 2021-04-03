@@ -17,9 +17,12 @@ https://www.youtube.com/watch?v=wiihNRlDoWU
 
 # NOSSOS CANAIS
 
-IpageTelegram.
+IpageTelegram
+
 Versão: 2.0.3 Beta
+
 Última atualização:  01 Apr 2021 03:14:02
+
 
 * Site da Ipage (https://www.ipage.com.br/)
 * Twitter (https://twitter.com/ipage_software)
